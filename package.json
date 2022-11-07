@@ -1,0 +1,16 @@
+{
+  "name": "hardhat-project",
+  "scripts": {
+    "test": "hardhat test",
+    "start": "ts-node scripts/start.ts",
+    "compile": "hardhat compile"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.12.2",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "ganache": "^7.5.0"
+  }
+}
