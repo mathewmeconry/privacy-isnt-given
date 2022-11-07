@@ -14,7 +14,7 @@ Can you recover the flag?
 ### Information
 
 Wallet public key `0x28a8746e75304c0780e011bed21c72cd78cd535e`  
-Wallet private key `0xa453611d9419d0e56f499079478fd72c37b251a94bfde4d19872c44cf65386e3`
+Wallet private key `0xa453611d9419d0e56f499079478fd72c37b251a94bfde4d19872c44cf65386e3`  
 Contract address: `0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab`
 
 Contract source code
